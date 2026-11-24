@@ -4,8 +4,6 @@ A real-time desktop application that detects people in images from industrial Hi
 
 Graduation project, Computer Science and Technology, China Jiliang University (2026).
 
-![Application screenshot](screenshots/app.png)
-
 ## Why this project
 
 Security staff who watch many cameras at once miss events because of attention fatigue, and most footage is only reviewed after an incident. Strong AI models and industrial cameras exist, but there is rarely a simple desktop application that connects them. This project joins them in one tool that runs on a normal Windows computer, without expensive commercial software.
